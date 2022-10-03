@@ -75,7 +75,7 @@ p:hover {
     color: #fff;
     background-color: var(--bs-background-color-theme-red);
     border-color: var(--bs-background-color-theme-red);
-    box-shadow: 0 0 0 0.25rem rgba(38, 38, 38, 0.5);
+    box-shadow: 0 0 0 0.25rem rgba(0, 0, 0, 0.3);
 }
 
 body::before {
@@ -85,7 +85,7 @@ body::before {
     min-width: 100vw;
     width: auto;
     height: auto;
-    background: var(--bs-background-color-theme-red);
+    background: #222d32;
     opacity: 0.5;
     z-index: -1;
     overflow: hidden;
