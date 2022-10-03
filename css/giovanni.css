@@ -145,7 +145,7 @@ body::before {
     left: -1%;
     transform: skewX(-9deg);
     transform-origin: top right;
-    background-color: rgba(0, 0, 0, 0.8);
+    background-color: rgba(0, 0, 0, 0.6);
     z-index: -1;
 }
 
