@@ -194,7 +194,7 @@ body::before {
         position: fixed;
         display: flex;
         flex-direction: row;
-        bottom: -40%;
+        top: 25%;
         right: 0;
         min-width: 100%;
         align-items: center;
